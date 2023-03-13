@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SEM2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DC196400-F255-4E97-92E2-C7BFF0EE8C8B}</UniqueIdentifier>
+      <UniqueIdentifier>{716031CD-0BC5-4CA0-8B21-9F5CF477B225}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SEM2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DF8A832B-BA4C-4050-BF4D-AD916330A79F}</UniqueIdentifier>
+      <UniqueIdentifier>{5F5FF5EF-E3EA-4ADC-B50C-38E8D7EF676B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +23,18 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\SEM2">
-      <UniqueIdentifier>{C27CD929-9A36-4061-81B1-9D6237477F59}</UniqueIdentifier>
+      <UniqueIdentifier>{B548658C-7C7B-47E5-8325-94D735C40E03}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SEM2\Def.cpp">
+      <Filter>Source\SEM2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SEM2\Def.h">
+      <Filter>Source\SEM2</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SEM2\SEM2.Build.cs">
       <Filter>Source\SEM2</Filter>
     </None>
