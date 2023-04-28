@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SEM2-9274.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Def.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Def.gen.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.init.gen.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.gen.cpp.obj"
+"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Default.rc2.res"
+/OUT:"B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-9274.lib"
+/INCLUDE:IMPLEMENT_MODULE_SEM2

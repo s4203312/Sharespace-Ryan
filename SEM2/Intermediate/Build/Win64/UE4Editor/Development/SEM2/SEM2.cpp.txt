@@ -1,2 +1,2 @@
-C:\Users\Ryan Mcnab\UoG Programming\Class\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
-C:\Users\Ryan Mcnab\UoG Programming\Class\Sharespace-Ryan\SEM2\Source\SEM2\SEM2.h
+B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+B:\UoG Programming\Unreal Stuff\Sharespace-Ryan\SEM2\Source\SEM2\SEM2.h
